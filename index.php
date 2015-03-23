@@ -2,10 +2,13 @@
 <!-- Bootstrap -->
 <link rel="stylesheet" href="./css/bootstrap.min.css">
 <!-- Header -->
-<div class="jumbotron">
+	<div class="jumbotron">
         <h1>Noob Design</h1>
-        <p class="lead">This is noob design</p>
-        <p><a class="btn btn-lg btn-success" href="#" role="button">Sign up today</a></p>
+        <p class="lead">Customer Care Made Easy</p>
+	</div>
+<!-- Main Body -->
+	<div class="row">
+		<div class="col-md-4">This is the left</div>
+        <div class="col-md-8">This is the right</div>
       </div>
-
 </html>
