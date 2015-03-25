@@ -7,6 +7,8 @@
         <h1>Noob Design</h1>
         <p class="lead">Customer Care Made Easy</p>
 	</div>
+<!-- Container for the pains and tabs -->
+<body class="clientbody">
 <!-- Tabs -->
     <ul id="tabs" class="nav nav-tabs" data-tabs="tabs">
         <li class="active"><a href="#Client" data-toggle="tab">Client</a></li>
@@ -15,7 +17,7 @@
         <li><a href="#Notes" data-toggle="tab">Notes</a></li>
         <li><a href="#Account" data-toggle="tab">Account</a></li>
     </ul>
-<!-- Main Body -->
+<!--Details pains-->
 	<div class="row">
 <!-- The left pane will contain details that are needed at first glance location details standing and primary contact -->
 		<div class="col-md-4">
@@ -68,4 +70,5 @@
 			</div>
         </div>
     </div>
+</body>
 </html>
