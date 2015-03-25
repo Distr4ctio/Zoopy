@@ -2,13 +2,15 @@
 <!-- Bootstrap -->
 <link rel="stylesheet" href="./css/bootstrap.min.css">
 <link rel="stylesheet" href="./stylesheet.css">
+
+<body class="clientbody">
 <!-- Header -->
 	<div class="header">
         <h1>Noob Design</h1>
         <p class="lead">Customer Care Made Easy</p>
 	</div>
 <!-- Container for the pains and tabs -->
-<body class="clientbody">
+
 <!-- Tabs -->
     <ul id="tabs" class="nav nav-tabs" data-tabs="tabs">
         <li class="active"><a href="#Client" data-toggle="tab">Client</a></li>
