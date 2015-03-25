@@ -9,13 +9,14 @@
 }
 
 .header {
-	margin: 5 auto 10 auto;
+	margin-top: 10px;
+	margin-bottom: 15px;
 	border: 2px solid #AC58FA;
 	border-radius: 15px;
 	height: 150px;
 	width: 80%;
 	background-color: #AC58FA;
-	padding: 5px auto 5px auto;
+	padding: 5px 10px 5px 10px;
 }
 
 .details {
