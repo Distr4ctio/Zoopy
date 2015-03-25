@@ -9,25 +9,27 @@
 }
 
 .header {
-	margin: 5px auto 0px auto;
+	margin: 5 auto 10 auto;
 	border: 2px solid #AC58FA;
 	border-radius: 15px;
 	height: 150px;
 	width: 80%;
-
-	padding: 5px 5px 5px 5px;
+	background-color: #AC58FA;
+	padding: 5px auto 5px auto;
 }
 
 .details {
 	width: 100%;
-	padding: 5px 5px 5px 5px;
+	padding: 10px 5px 10px 5px;
 	border-width: 0;
+	background-color: #ffffff;
+	border-radius: 10px;
 }
 
 .clientbody {
 	width: 80%;
 	border-width: 0;
 	background-color: #ffffff;
-	margin: 5px 0px 5px 0px;
+	margin: 5 auto 5 auto;
 	border-radius: 10px;
 }
